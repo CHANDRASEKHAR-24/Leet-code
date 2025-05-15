@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0595-big-countries) |
+| [1338-queries-quality-and-percentage](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1338-queries-quality-and-percentage) |
 | [1541-top-travellers](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1541-top-travellers) |
 ## Sliding Window
 |  |
