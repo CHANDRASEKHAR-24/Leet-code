@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0643-maximum-average-subarray-i) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
