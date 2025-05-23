@@ -112,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0118-pascals-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
