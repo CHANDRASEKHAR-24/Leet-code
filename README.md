@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0066-plus-one) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
