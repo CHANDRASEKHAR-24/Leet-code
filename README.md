@@ -92,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0258-add-digits) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0050-powx-n) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
