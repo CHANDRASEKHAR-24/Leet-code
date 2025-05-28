@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0258-add-digits) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0029-divide-two-integers) |
 | [0861-flipping-an-image](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0861-flipping-an-image) |
 ## String
 |  |
