@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1338-queries-quality-and-percentage) |
 | [1541-top-travellers](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1670-patients-with-a-condition) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Sliding Window
 |  |
 | ------- |
