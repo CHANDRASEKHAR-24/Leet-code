@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0180-consecutive-numbers) |
+| [0584-find-customer-referee](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0610-triangle-judgement) |
