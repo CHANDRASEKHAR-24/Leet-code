@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
