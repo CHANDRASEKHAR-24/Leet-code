@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1837-daily-leads-and-partners](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1837-daily-leads-and-partners) |
 | [1942-primary-department-for-each-employee](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1942-primary-department-for-each-employee) |
 ## Sliding Window
 |  |
