@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/0367-valid-perfect-square) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHANDRASEKHAR-24/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
